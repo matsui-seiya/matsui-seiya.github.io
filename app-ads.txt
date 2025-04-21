@@ -1,9 +1,9 @@
 # AdMob
 google.com, pub-9648604609626422, DIRECT, f08c47fec0942fa0
 
-# Unity Ads（IDは自分のに置換）
+# Unity Ads
 unityads.com, 15669560590871, DIRECT, f08c47fec0942fa0
 
-# AppLovin（IDは自分のに置換）
+# AppLovin
 applovin.com, a4edaa3c374d850ffa532a78780396b1, DIRECT, 8fef3e693d8a
 
