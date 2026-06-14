@@ -2,17 +2,15 @@
 google.com, pub-9648604609626422, DIRECT, f08c47fec0942fa0
 
 
-
-
-
 # AppLovin
 applovin.com, a4edaa3c374d850ffa532a78780396b1, DIRECT, 8fef3e693d8a
-applovin.com, a4edaa3c374d850ffa532a78780396b1, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
-contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
+bidease.com, bidease_seller_26, RESELLER
+contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 improvedigital.com, 2451, RESELLER
+improvedigital.com, 2602, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
@@ -39,15 +37,13 @@ sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER
 sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
+taurusx.com, 70119, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
-
-
-
 
 
 # Unity Ads
@@ -163,9 +159,6 @@ webeyemob.com, 80029, RESELLER
 risecodes.com, 66bca72035bff70001caa46f, RESELLER
 rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
-
-
-
 
 
 # IronSource
